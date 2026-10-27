@@ -46,46 +46,46 @@ class Player:
 
 **⚔️ Weapons (Languages)**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0f2c?style=for-the-badge&logo=javascript&logoColor=00d4ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0f2c?style=for-the-badge&logo=typescript&logoColor=00d4ff)
-![Python](https://img.shields.io/badge/Python-0a0f2c?style=for-the-badge&logo=python&logoColor=00d4ff)
-![HTML](https://img.shields.io/badge/HTML5-0a0f2c?style=for-the-badge&logo=html5&logoColor=00d4ff)
-![CSS](https://img.shields.io/badge/CSS3-0a0f2c?style=for-the-badge&logo=css3&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1565C0?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1565C0?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1565C0?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-1565C0?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1565C0?style=for-the-badge&logo=css3&logoColor=white)
 
 **🛡️ Armor (Frameworks & Libraries)**
 
-![Next.js](https://img.shields.io/badge/Next.js-0a0f2c?style=for-the-badge&logo=nextdotjs&logoColor=00d4ff)
-![React](https://img.shields.io/badge/React-0a0f2c?style=for-the-badge&logo=react&logoColor=00d4ff)
-![Node.js](https://img.shields.io/badge/Node.js-0a0f2c?style=for-the-badge&logo=nodedotjs&logoColor=00d4ff)
-![Express](https://img.shields.io/badge/Express-0a0f2c?style=for-the-badge&logo=express&logoColor=00d4ff)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0f2c?style=for-the-badge&logo=tailwindcss&logoColor=00d4ff)
-![Prisma](https://img.shields.io/badge/Prisma-0a0f2c?style=for-the-badge&logo=prisma&logoColor=00d4ff)
-![NumPy](https://img.shields.io/badge/NumPy-0a0f2c?style=for-the-badge&logo=numpy&logoColor=00d4ff)
-![Pandas](https://img.shields.io/badge/Pandas-0a0f2c?style=for-the-badge&logo=pandas&logoColor=00d4ff)
+![Next.js](https://img.shields.io/badge/Next.js-1565C0?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-1565C0?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1565C0?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1565C0?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1565C0?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1565C0?style=for-the-badge&logo=prisma&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1565C0?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1565C0?style=for-the-badge&logo=pandas&logoColor=white)
 
 **🔮 Magic (AI / ML)**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0f2c?style=for-the-badge&logo=tensorflow&logoColor=00d4ff)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0f2c?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0f2c?style=for-the-badge&logo=scikitlearn&logoColor=00d4ff)
-![LangChain](https://img.shields.io/badge/LangChain-0a0f2c?style=for-the-badge&logo=langchain&logoColor=00d4ff)
-![LangGraph](https://img.shields.io/badge/LangGraph-0a0f2c?style=for-the-badge&logoColor=00d4ff)
-![Gemini](https://img.shields.io/badge/Gemini%20API-0a0f2c?style=for-the-badge&logo=googlegemini&logoColor=00d4ff)
-![RAG](https://img.shields.io/badge/RAG-0a0f2c?style=for-the-badge&logoColor=00d4ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1565C0?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1565C0?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1565C0?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1565C0?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1565C0?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-1565C0?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1565C0?style=for-the-badge&logoColor=white)
 
 **🏰 Storage Rooms (Databases)**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0f2c?style=for-the-badge&logo=mongodb&logoColor=00d4ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f2c?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
-![MySQL](https://img.shields.io/badge/MySQL-0a0f2c?style=for-the-badge&logo=mysql&logoColor=00d4ff)
-![Supabase](https://img.shields.io/badge/Supabase-0a0f2c?style=for-the-badge&logo=supabase&logoColor=00d4ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-1565C0?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1565C0?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1565C0?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1565C0?style=for-the-badge&logo=supabase&logoColor=white)
 
 **🧰 Tools**
 
-![AWS](https://img.shields.io/badge/AWS-0a0f2c?style=for-the-badge&logoColor=00d4ff)
-![Git](https://img.shields.io/badge/Git-0a0f2c?style=for-the-badge&logo=git&logoColor=00d4ff)
-![GitHub](https://img.shields.io/badge/GitHub-0a0f2c?style=for-the-badge&logo=github&logoColor=00d4ff)
-![Tableau](https://img.shields.io/badge/Tableau-0a0f2c?style=for-the-badge&logo=tableau&logoColor=00d4ff)
+![AWS](https://img.shields.io/badge/AWS-1565C0?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1565C0?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1565C0?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -171,8 +171,8 @@ class Player:
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0a0f2c?style=for-the-badge&logo=leetcode&logoColor=00d4ff)](https://leetcode.com/u/YOUR_LEETCODE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-0a0f2c?style=for-the-badge&logo=codeforces&logoColor=00d4ff)](https://codeforces.com/profile/YOUR_CODEFORCES)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1565C0?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1565C0?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES)
 
 </div>
 
@@ -182,7 +182,7 @@ class Player:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0a0f2c?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/WizardCarp85)
+[![GitHub](https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WizardCarp85)
 
 ```
  ╔══════════════════════════════════╗
